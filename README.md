@@ -972,3 +972,7 @@ We could just do another `rebase -i` in the current state, just like we did orig
 Or we use the reflog and jump back to after the rebase and `amend` the commit from there. 
 
 But by now you know how to do either of that, so I'll let you try that on your own. And in addition you also know that there's the `reflog` allowing you to undo most things you might end up doing by mistake. 
+
+
+
+archivo modificado ampliando una linea de prueba
